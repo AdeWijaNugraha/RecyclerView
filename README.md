@@ -1,5 +1,5 @@
 # RecyclerView
-Make a list of President of Indonesia using recycler view. This is using 4 display modes such as list, grid, card view, and staggered grid.
+Make a list of President of Indonesia using recycler view. This is using 4 display modes such as list, grid, card view, and staggered grid. Using Glide library to display the picture -> https://github.com/bumptech/glide
 
 Preview :
 
